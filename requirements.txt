@@ -1,0 +1,4 @@
+flask==0.9
+redis
+gevent-socketio
+
